@@ -1,0 +1,8 @@
+# 빌드 출력
+out/
+
+# IntelliJ 모듈 파일
+*.iml
+
+# macOS
+.DS_Store
